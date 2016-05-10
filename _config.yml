@@ -1,7 +1,7 @@
 name: Atkins Park
 favicon: null
-layout_spectrum: 0.36559515027329326
-typography_spectrum: 0.5981260603293777
+layout_spectrum: 1
+typography_spectrum: 0.25168
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.09623732860200107
+    - '#7c6d68'
+    - '#b09d8e'
+    - '#d9cbc0'
+    - '#53443f'
+    - '#070406'
+  brandStrength: 0.5
   lightness: 0.32095546601340175
-  saturation: 0.815724328160286
-  rhythmicContrast: 0.512765234336257
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
